@@ -1,2 +1,2 @@
 # idevicemappings
-Documenting the base addresses of hardware
+Documenting the base addresses of Apple mobile devices hardware
